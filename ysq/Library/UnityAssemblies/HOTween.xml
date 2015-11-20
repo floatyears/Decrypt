@@ -1,0 +1,11 @@
+﻿<?xml version="1.0"?>
+<doc>
+	<assembly>
+		<name>HOTween</name>
+	</assembly>
+	<members>
+		<member name="T:Holoville.HOTween.Core.Path">
+			<summary>Performs operations on strings that contain file or directory path information.</summary>
+		</member>
+	</members>
+</doc>
