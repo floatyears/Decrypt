@@ -1,0 +1,50 @@
+using System;
+
+namespace cn.sharesdk.unity3d
+{
+	public enum PlatformType
+	{
+		SinaWeibo = 1,
+		TencentWeibo,
+		DouBan = 5,
+		QZone,
+		Renren,
+		Kaixin,
+		Pengyou,
+		Facebook,
+		Twitter,
+		Evernote,
+		Foursquare,
+		GooglePlus,
+		Instagram,
+		LinkedIn,
+		Tumblr,
+		Mail,
+		SMS,
+		Print,
+		Copy,
+		WeChatSession,
+		WeChatTimeline,
+		QQ,
+		Instapaper,
+		Pocket,
+		YouDaoNote,
+		SohuKan,
+		Pinterest = 30,
+		Flickr = 34,
+		Dropbox,
+		VKontakte,
+		WeChatFav,
+		YiXinSession,
+		YiXinTimeline,
+		YiXinFav,
+		MingDao,
+		Line,
+		WhatsApp,
+		KakaoTalk,
+		KakaoStory,
+		FacebookMessenger,
+		Bluetooth = 48,
+		Any = 99
+	}
+}
